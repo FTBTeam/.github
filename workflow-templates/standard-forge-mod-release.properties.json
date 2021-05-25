@@ -7,6 +7,5 @@
     ],
     "filePatterns": [
         "build.gradle$",
-        "src/main/resources/META-INF/mods.toml"
     ]
 }
