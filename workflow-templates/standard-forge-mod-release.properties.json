@@ -4,8 +4,5 @@
     "iconName": "standard-forge",
     "categories": [
         "Java"
-    ],
-    "filePatterns": [
-        "build.gradle$"
     ]
 }
