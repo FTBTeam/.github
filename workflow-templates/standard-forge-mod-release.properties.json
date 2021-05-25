@@ -1,0 +1,12 @@
+{
+    "name": "Standard Forge Mod Workflow",
+    "description": "Complete build & release workflow for Forge Mods",
+    "iconName": "standard-forge",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "build.gradle$",
+        "src/main/resources/META-INF/mods.toml"
+    ]
+}
