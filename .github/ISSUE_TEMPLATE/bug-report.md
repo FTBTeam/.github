@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Report a bug/crash
-title: '[bug]'
+title: '[bug] '
 labels: Bug
 assignees: ''
 
@@ -9,7 +9,7 @@ assignees: ''
 
 To help us help you, please provide as much information as you can, this helps us with debugging and reproducting the issue.
 
-**Mod / Pack version**
+**Mod & Pack version**
 
 **Forge / Fabric version, if applicable**
 
