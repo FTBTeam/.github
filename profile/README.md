@@ -1,3 +1,3 @@
 ## 👋 Hay, we're Feed the Beast! 
 
-Check out our mods packs https://feed-the-beast.com/modpack
+Check out our modpacks https://feed-the-beast.com/modpack
